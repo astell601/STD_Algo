@@ -1,0 +1,64 @@
+#include <iostream>
+using namespace std;
+
+class Burger
+{
+private:
+	int numOfburgers;
+	int b_cost;
+public:
+
+};
+
+class Fries
+{
+private:
+	int numOffries;
+	int f_cost;
+public:
+
+};
+
+class Drinks
+{
+private:
+	int numOfdrinks;
+	int d_cost;
+public:
+
+};
+
+class Icecream
+{
+private:
+	int numOfice;
+	int i_cost;
+public:
+
+};
+
+class Set_menu
+{
+private:
+	int burger;
+	int fries;
+	int drinks;
+	int s_cost;
+public:
+
+};
+
+class Order
+{
+
+};
+
+class Payment
+{
+
+};
+
+int main()
+{
+
+}
